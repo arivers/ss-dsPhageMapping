@@ -1,0 +1,30 @@
+#File	/global/dna/dm_archive/sdm/illumina/01/05/98/10598.1.166606.ATGTC.fastq.gz
+#Total	7459296
+#Matched	10161	0.13622%
+#Name	Reads	ReadsPct
+Reverse_adapter	5744	0.07700%
+pcr_dimer	2193	0.02940%
+TruSeq_Universal_Adapter	1163	0.01559%
+PCR_Primers	574	0.00770%
+TruSeqR2_nextera	124	0.00166%
+cre_lox_pcr_primer_1	107	0.00143%
+nextera_R2_right_side_adapter	103	0.00138%
+RNA_PCR_Primer__RP1___part___15005505	47	0.00063%
+RNA_PCR_Primer__Index_40__RPI40	23	0.00031%
+RNA_PCR_Primer__Index_19__RPI19	20	0.00027%
+RNA_PCR_Primer__Index_37__RPI37	14	0.00019%
+TruSeq_Adapter__Index_7	9	0.00012%
+cre_lox_lib_yadapt_1	8	0.00011%
+RNA_PCR_Primer__Index_42__RPI42	7	0.00009%
+Multiplexing_Adapters	4	0.00005%
+TruSeq_Adapter__Index_10	4	0.00005%
+TruSeq_Adapter__Index_8	4	0.00005%
+RNA_PCR_Primer__Index_22__RPI22	2	0.00003%
+RNA_PCR_Primer__Index_27__RPI27	2	0.00003%
+RNA_PCR_Primer__Index_41__RPI41	2	0.00003%
+TruSeq_Adapter__Index_12	2	0.00003%
+PCR_Primer__Index_2	1	0.00001%
+PCR_Primer__Index_5	1	0.00001%
+RNA_PCR_Primer__Index_35__RPI35	1	0.00001%
+TruSeq_Adapter__Index_3	1	0.00001%
+TruSeq_Adapter__Index_9	1	0.00001%

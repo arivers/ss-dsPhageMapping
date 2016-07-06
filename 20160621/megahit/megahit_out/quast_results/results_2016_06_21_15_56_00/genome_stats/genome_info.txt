@@ -1,0 +1,25 @@
+reference chromosomes:
+	PSA_HP1 (45035 bp)
+	Enterobacteria_phage_phiX174_9626372 (5386 bp)
+	Cellulophaga_phage_phi13_1_514342768 (76666 bp)
+	gi|9625355|ref|NC_001330.1|_Enterobacteria_phage_alpha3__complete_genome (6087 bp)
+	Cellulophaga_phage_phi18_3_526177357 (71443 bp)
+	PSA_HM1 (129401 bp)
+	PSA_HS9 (36769 bp)
+	Cellulophaga_phage_phi18_1_526177061 (39189 bp)
+	Cellulophaga_phage_phi38_1_526177551 (72534 bp)
+	PSA_HS2 (37728 bp)
+	PSA_HS6 (35328 bp)
+	Cellulophaga_phage_phi38_2_514343001 (54012 bp)
+
+total genome size: 609578
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+================================================================================================================
+final.contigs            | 7.34869%  | 1.00270     | 13        | -         | -         | -         | -         |

@@ -1,0 +1,14 @@
+start, 2016-06-24 11:18:19
+filter start, 2016-06-24 11:18:19
+filter finish, 2016-06-24 11:18:33
+removeCommonMicrobes start, 2016-06-24 11:18:33
+removeCommonMicrobes finish, 2016-06-24 11:19:01
+delete temp files start, 2016-06-24 11:19:01
+delete temp files finish, 2016-06-24 11:19:01
+dehumanize start, 2016-06-24 11:19:01
+dehumanize finish, 2016-06-24 11:22:48
+delete temp files start, 2016-06-24 11:22:48
+delete temp files finish, 2016-06-24 11:22:48
+merge start, 2016-06-24 11:22:48
+merge finish, 2016-06-24 11:22:59
+complete, 2016-06-24 11:22:59

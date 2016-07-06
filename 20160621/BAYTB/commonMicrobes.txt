@@ -1,0 +1,32 @@
+#name	%unambiguousReads	unambiguousMB	%ambiguousReads	ambiguousMB	unambiguousReads	ambiguousReads
+chr4	0.00184	0.02069	0.00004	0.00045	137	3
+chr6	0.00141	0.01580	0.00000	0.00000	105	0
+chr5	0.00136	0.01525	0.00009	0.00106	101	7
+chr2	0.00129	0.01439	0.00000	0.00000	96	0
+chr1	0.00126	0.01407	0.00015	0.00166	94	11
+chr3	0.00122	0.01368	0.00000	0.00000	91	0
+chr11	0.00117	0.01312	0.00000	0.00000	87	0
+chr10	0.00089	0.00997	0.00004	0.00045	66	3
+chr12	0.00086	0.00966	0.00000	0.00000	64	0
+chr8	0.00078	0.00872	0.00001	0.00015	58	1
+chr9	0.00077	0.00861	0.00011	0.00121	57	8
+chrX	0.00074	0.00831	0.00004	0.00045	55	3
+chr7	0.00070	0.00782	0.00000	0.00000	52	0
+chr18	0.00062	0.00694	0.00000	0.00000	46	0
+chr16	0.00055	0.00610	0.00011	0.00121	41	8
+chr13	0.00055	0.00618	0.00000	0.00000	41	0
+chr14	0.00046	0.00513	0.00000	0.00000	34	0
+chr15	0.00038	0.00421	0.00001	0.00015	28	1
+chr20	0.00031	0.00345	0.00000	0.00000	23	0
+chr17	0.00028	0.00317	0.00000	0.00000	21	0
+chr21	0.00024	0.00272	0.00000	0.00000	18	0
+chr19	0.00024	0.00264	0.00000	0.00000	18	0
+chr22	0.00012	0.00136	0.00000	0.00000	9	0
+chrY	0.00011	0.00121	0.00000	0.00000	8	0
+gi|357579610|ref|NC_006603.3| Canis lupus familiaris breed boxer chromosome 21, CanFam3.1, whole genome shotgun sequence	0.00008	0.00091	0.00000	0.00000	6	0
+gi|357579626|ref|NC_006587.3| Canis lupus familiaris breed boxer chromosome 5, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579623|ref|NC_006590.3| Canis lupus familiaris breed boxer chromosome 8, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579614|ref|NC_006599.3| Canis lupus familiaris breed boxer chromosome 17, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579602|ref|NC_006611.3| Canis lupus familiaris breed boxer chromosome 29, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579600|ref|NC_006613.3| Canis lupus familiaris breed boxer chromosome 31, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579597|ref|NC_006616.3| Canis lupus familiaris breed boxer chromosome 34, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0

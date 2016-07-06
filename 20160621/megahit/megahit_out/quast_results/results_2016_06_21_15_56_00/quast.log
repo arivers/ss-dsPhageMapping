@@ -1,0 +1,113 @@
+/global/common/genepool/jgi/utilities/quast/2.3/quast.py -T 16 -R ../../../refs/Ref_database.fna final.contigs.fa
+
+Version 2.3, build 28.02.2014 16:10
+
+System information:
+  OS: Linux-2.6.32-431.46.2.el6.nersc.x86_64-x86_64-with-debian-6.0.10 (linux_64)
+  Python version: 2.7.4
+  CPUs number: 32
+
+Started: 2016-06-21 15:56:00
+
+Logging to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/quast.log
+
+Reference:
+  ../../../refs/Ref_database.fna ==> Ref_database
+
+Contigs:
+  final.contigs.fa ==> final.contigs
+
+2016-06-21 15:56:01
+Running Basic statistics processor...
+  Reference genome:
+    Ref_database.fna, Reference length = 609578, Reference GC % = 36.76
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 23983, L50 = 1, Total length = 44953, GC % = 44.65, # N's per 100 kbp =  0.00
+  Drawing cumulative plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/basic_stats/GC_content_plot.pdf
+  Drawing Nx plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/basic_stats/NGx_plot.pdf
+Done.
+
+2016-06-21 15:56:02
+Running Contig analyzer...
+  final.contigs
+  Logging to files /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stdout and contigs_report_final.contigs.stderr...
+  Running Nucmer
+  /global/common/genepool/jgi/utilities/quast/2.3/libs/MUMmer3.23-linux/nucmer -c \
+  65 -l 65 --maxmatch -p quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs \
+  quast_results/results_2016_06_21_15_56_00/quast_corrected_input/Ref_database.fna \
+  quast_results/results_2016_06_21_15_56_00/quast_corrected_input/final.contigs.fa \
+  >> quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stdout \
+  2>> quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stderr
+  /global/common/genepool/jgi/utilities/quast/2.3/libs/MUMmer3.23-linux/delta-filter \
+  -i 95 quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.delta \
+  > quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.fdelta \
+  2> quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stderr
+  /global/common/genepool/jgi/utilities/quast/2.3/libs/MUMmer3.23-linux/show-coords \
+  quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.delta \
+  > quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.coords_tmp \
+  2> quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stderr
+  /global/common/genepool/jgi/utilities/quast/2.3/libs/MUMmer3.23-linux/show-snps \
+  -S -T -H quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.delta \
+  < quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.coords.headless \
+  > quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.all_snps \
+  2> quast_results/results_2016_06_21_15_56_00/contigs_reports/contigs_report_final.contigs.stderr
+  Alignments: quast_results/results_2016_06_21_15_56_00/contigs_reports/alignments_final.contigs.tsv
+  Analysis is finished.
+
+  Creating total report...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Creating total report...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+Done.
+
+2016-06-21 15:56:03
+Running NA-NGA calculation...
+  final.contigs, Largest alignment = 23983, NA50 = 23983, NGA50 = None, LA50 = 1, LGA50 = None
+  Drawing cumulative plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/aligned_stats/NGAx_plot.pdf
+Done.
+
+2016-06-21 15:56:03
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2016-06-21 15:56:04
+Drawing large plots...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating contig alignment plot...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2016-06-21 15:56:05
+RESULTS:
+  Text versions of total report are saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/report.html
+  PDF version (tables and plots) saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/report.pdf
+  Contig alignment plot: /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/alignment.svg
+  Log saved to /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/quast.log
+
+Finished: 2016-06-21 15:56:05
+Elapsed time: 0:00:04.724891
+NOTICEs: 3; WARNINGs: 0; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

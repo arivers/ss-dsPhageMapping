@@ -1,0 +1,68 @@
+#name	%unambiguousReads	unambiguousMB	%ambiguousReads	ambiguousMB	unambiguousReads	ambiguousReads
+chr2	0.16771	1.51730	0.00332	0.03002	10066	199
+chr1	0.14611	1.32090	0.01564	0.14118	8770	939
+chr6	0.11488	1.03948	0.00027	0.00241	6895	16
+chr4	0.11438	1.03512	0.00102	0.00919	6865	61
+chr3	0.10448	0.94550	0.00013	0.00121	6271	8
+chr5	0.09915	0.89715	0.00115	0.01042	5951	69
+chr7	0.09302	0.84145	0.00207	0.01872	5583	124
+chr8	0.08115	0.73455	0.00262	0.02366	4871	157
+chr10	0.07975	0.72181	0.00383	0.03471	4787	230
+chr12	0.07141	0.64601	0.00035	0.00317	4286	21
+chr11	0.07016	0.63453	0.00085	0.00769	4211	51
+chr9	0.06299	0.56967	0.00388	0.03502	3781	233
+chr14	0.05536	0.50084	0.00152	0.01374	3323	91
+chr13	0.05063	0.45813	0.00042	0.00377	3039	25
+chr16	0.04790	0.43313	0.00570	0.05146	2875	342
+chr17	0.04708	0.42505	0.00163	0.01479	2826	98
+chr15	0.04328	0.39130	0.00248	0.02246	2598	149
+chrX	0.04288	0.38828	0.00382	0.03457	2574	229
+chr18	0.03979	0.36009	0.00020	0.00181	2388	12
+chr20	0.03897	0.35234	0.00010	0.00091	2339	6
+chr19	0.03479	0.31327	0.00097	0.00875	2088	58
+chr21	0.02293	0.20739	0.00033	0.00302	1376	20
+chr22	0.01853	0.16702	0.00050	0.00451	1112	30
+chrY	0.00581	0.05263	0.00345	0.03124	349	207
+chrM	0.00048	0.00438	0.00002	0.00015	29	1
+gi|357579615|ref|NC_006598.3| Canis lupus familiaris breed boxer chromosome 16, CanFam3.1, whole genome shotgun sequence	0.00015	0.00133	0.00000	0.00000	9	0
+gi|357579613|ref|NC_006600.3| Canis lupus familiaris breed boxer chromosome 18, CanFam3.1, whole genome shotgun sequence	0.00013	0.00121	0.00000	0.00000	8	0
+gi|357579610|ref|NC_006603.3| Canis lupus familiaris breed boxer chromosome 21, CanFam3.1, whole genome shotgun sequence	0.00012	0.00106	0.00002	0.00015	7	1
+gi|357579625|ref|NC_006588.3| Canis lupus familiaris breed boxer chromosome 6, CanFam3.1, whole genome shotgun sequence	0.00010	0.00091	0.00003	0.00030	6	2
+gi|357579620|ref|NC_006593.3| Canis lupus familiaris breed boxer chromosome 11, CanFam3.1, whole genome shotgun sequence	0.00010	0.00091	0.00000	0.00000	6	0
+gi|357579611|ref|NC_006602.3| Canis lupus familiaris breed boxer chromosome 20, CanFam3.1, whole genome shotgun sequence	0.00010	0.00091	0.00000	0.00000	6	0
+gi|357579609|ref|NC_006604.3| Canis lupus familiaris breed boxer chromosome 22, CanFam3.1, whole genome shotgun sequence	0.00010	0.00091	0.00000	0.00000	6	0
+gi|357579627|ref|NC_006586.3| Canis lupus familiaris breed boxer chromosome 4, CanFam3.1, whole genome shotgun sequence	0.00008	0.00075	0.00000	0.00000	5	0
+gi|357579602|ref|NC_006611.3| Canis lupus familiaris breed boxer chromosome 29, CanFam3.1, whole genome shotgun sequence	0.00008	0.00075	0.00000	0.00000	5	0
+gi|357579599|ref|NC_006614.3| Canis lupus familiaris breed boxer chromosome 32, CanFam3.1, whole genome shotgun sequence	0.00008	0.00075	0.00000	0.00000	5	0
+gi|357579626|ref|NC_006587.3| Canis lupus familiaris breed boxer chromosome 5, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579619|ref|NC_006594.3| Canis lupus familiaris breed boxer chromosome 12, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579618|ref|NC_006595.3| Canis lupus familiaris breed boxer chromosome 13, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579614|ref|NC_006599.3| Canis lupus familiaris breed boxer chromosome 17, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579608|ref|NC_006605.3| Canis lupus familiaris breed boxer chromosome 23, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579605|ref|NC_006608.3| Canis lupus familiaris breed boxer chromosome 26, CanFam3.1, whole genome shotgun sequence	0.00007	0.00060	0.00000	0.00000	4	0
+gi|357579606|ref|NC_006607.3| Canis lupus familiaris breed boxer chromosome 25, CanFam3.1, whole genome shotgun sequence	0.00005	0.00045	0.00000	0.00000	3	0
+NC_000079.6 Mus musculus strain C57BL/6J chromosome 13, GRCm38.p3 C57BL/6J	0.00005	0.00045	0.00000	0.00000	3	0
+gi|357579623|ref|NC_006590.3| Canis lupus familiaris breed boxer chromosome 8, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00007	0.00060	2	4
+gi|357579629|ref|NC_006584.3| Canis lupus familiaris breed boxer chromosome 2, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579624|ref|NC_006589.3| Canis lupus familiaris breed boxer chromosome 7, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579621|ref|NC_006592.3| Canis lupus familiaris breed boxer chromosome 10, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579617|ref|NC_006596.3| Canis lupus familiaris breed boxer chromosome 14, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579604|ref|NC_006609.3| Canis lupus familiaris breed boxer chromosome 27, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579603|ref|NC_006610.3| Canis lupus familiaris breed boxer chromosome 28, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579600|ref|NC_006613.3| Canis lupus familiaris breed boxer chromosome 31, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579593|ref|NC_006620.3| Canis lupus familiaris breed boxer chromosome 38, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579592|ref|NC_006621.3| Canis lupus familiaris breed boxer chromosome X, CanFam3.1, whole genome shotgun sequence	0.00003	0.00030	0.00000	0.00000	2	0
+NC_000068.7 Mus musculus strain C57BL/6J chromosome 2, GRCm38.p3 C57BL/6J	0.00003	0.00030	0.00000	0.00000	2	0
+gi|357579630|ref|NC_006583.3| Canis lupus familiaris breed boxer chromosome 1, CanFam3.1, whole genome shotgun sequence	0.00002	0.00015	0.00000	0.00000	1	0
+gi|357579628|ref|NC_006585.3| Canis lupus familiaris breed boxer chromosome 3, CanFam3.1, whole genome shotgun sequence	0.00002	0.00015	0.00000	0.00000	1	0
+gi|357579612|ref|NC_006601.3| Canis lupus familiaris breed boxer chromosome 19, CanFam3.1, whole genome shotgun sequence	0.00002	0.00015	0.00000	0.00000	1	0
+gi|357579598|ref|NC_006615.3| Canis lupus familiaris breed boxer chromosome 33, CanFam3.1, whole genome shotgun sequence	0.00002	0.00015	0.00000	0.00000	1	0
+NC_000067.6 Mus musculus strain C57BL/6J chromosome 1, GRCm38.p3 C57BL/6J	0.00002	0.00015	0.00000	0.00000	1	0
+gi|408526184|ref|NC_018725.1| Felis catus isolate Cinnamon breed Abyssinian chromosome A3, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00003	0.00030	0	2
+gi|408526183|ref|NC_018726.1| Felis catus isolate Cinnamon breed Abyssinian chromosome B1, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00003	0.00030	0	2
+gi|408526176|ref|NC_018733.1| Felis catus isolate Cinnamon breed Abyssinian chromosome D2, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00003	0.00030	0	2
+gi|408526175|ref|NC_018734.1| Felis catus isolate Cinnamon breed Abyssinian chromosome D3, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00003	0.00030	0	2
+gi|408526169|ref|NC_018740.1| Felis catus isolate Cinnamon breed Abyssinian chromosome F2, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00003	0.00030	0	2
+NC_000084.6 Mus musculus strain C57BL/6J chromosome 18, GRCm38.p3 C57BL/6J	0.00000	0.00000	0.00003	0.00030	0	2
+gi|408526181|ref|NC_018728.1| Felis catus isolate Cinnamon breed Abyssinian chromosome B3, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00002	0.00015	0	1
+gi|408526179|ref|NC_018730.1| Felis catus isolate Cinnamon breed Abyssinian chromosome C1, Felis_catus-6.2, whole genome shotgun sequence	0.00000	0.00000	0.00002	0.00015	0	1

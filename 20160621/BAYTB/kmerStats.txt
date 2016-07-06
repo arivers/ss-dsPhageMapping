@@ -1,0 +1,89 @@
+##INPUT PARAMETERS##
+#Reference file:	[/global/dna/shared/rqc/ref_databases/qaqc/databases/illumina.artifacts/Illumina.artifacts.2013.12.no_DNA_RNA_spikeins.fa, /global/dna/shared/rqc/ref_databases/qaqc/databases/illumina.artifacts/DNA_spikeins.artifacts.2012.10.fa, /global/dna/shared/rqc/ref_databases/qaqc/databases/pJET1.2.fasta]
+#Query file:	/global/dna/dm_archive/sdm/illumina/01/05/98/10598.1.166606.ATGTC.fastq.gz
+#Not matched reads file:	/scratch/tmp/22861305.1.normal_excl.q/TEMP_FILTER_3ef8f816ab31bd45cfa7efc6a2dc4_10598.1.166606.ATGTC.anqdht.fastq.gz
+#Matched reads file:	BAYTB/synth.fq.gz
+#Output file (duk):	BAYTB/kmerStats.txt
+#Output file (stats):	BAYTB/scaffoldStats.txt
+#Mer size:	27
+#Avg step size:	0.0
+#Cut off:	0
+#Mask middle:	true
+#Quality trim:	10
+
+##REFERENCE STAT##
+#Total Reads:	170
+#Total Bases:	30925
+#Total kmers:	26545
+#Total stored kmers:	1092922
+
+## ELAPSED TIME##
+# Time:	13.99 seconds
+
+##QUERY FILE STAT##
+# Total number of reads:	7459296
+# Total number of matched reads:	12422
+# Match ratio:	0.001665
+
+##P-VALUE##
+#Avg number of Kmer for each read:	124
+
+## Histogram of kmer occurance for reads with at least one occurance ##
+#NumOcc	NumReads	Percentage
+0	7449135	99.8638
+1	1005	0.0135
+2	696	0.0093
+3	365	0.0049
+4	286	0.0038
+5	212	0.0028
+6	206	0.0028
+7	176	0.0024
+8	152	0.0020
+9	167	0.0022
+10	169	0.0023
+11	499	0.0067
+12	117	0.0016
+13	124	0.0017
+14	90	0.0012
+15	101	0.0014
+16	99	0.0013
+17	81	0.0011
+18	92	0.0012
+19	98	0.0013
+20	93	0.0012
+21	86	0.0012
+22	91	0.0012
+23	180	0.0024
+24	1622	0.0217
+25	98	0.0013
+26	104	0.0014
+27	110	0.0015
+28	150	0.0020
+29	201	0.0027
+30	86	0.0012
+31	85	0.0011
+32	52	0.0007
+33	95	0.0013
+34	65	0.0009
+35	65	0.0009
+36	50	0.0007
+37	962	0.0129
+38	331	0.0044
+39	302	0.0040
+40	90	0.0012
+41	74	0.0010
+42	25	0.0003
+43	27	0.0004
+44	44	0.0006
+45	22	0.0003
+46	11	0.0001
+47	12	0.0002
+48	9	0.0001
+49	4	0.0001
+50	10	0.0001
+51	196	0.0026
+52	20	0.0003
+53	52	0.0007
+54	1	0.0000
+55	1	0.0000
+

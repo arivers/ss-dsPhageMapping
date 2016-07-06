@@ -1,0 +1,2 @@
+#name	%unambiguousReads	unambiguousMB	%ambiguousReads	ambiguousMB	unambiguousReads	ambiguousReads
+human_masked	0.22475	2.09971	0.00000	0.00000	13966	0

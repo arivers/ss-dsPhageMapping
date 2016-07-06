@@ -1,0 +1,155 @@
+Aligning contigs to reference...
+	Running Nucmer
+Parsing coords...
+Loading Assembly...
+Loading reference...
+	Loaded [gi|9625355|ref|NC_001330.1|_Enterobacteria_phage_alpha3__complete_genome]
+	Loaded [Enterobacteria_phage_phiX174_9626372]
+	Loaded [Cellulophaga_phage_phi18_1_526177061]
+	Loaded [Cellulophaga_phage_phi18_3_526177357]
+	Loaded [Cellulophaga_phage_phi38_1_526177551]
+	Loaded [Cellulophaga_phage_phi38_2_514343001]
+	Loaded [PSA_HM1]
+	Loaded [PSA_HS2]
+	Loaded [PSA_HS6]
+	Loaded [PSA_HS9]
+	Loaded [PSA_HP1]
+	Loaded [Cellulophaga_phage_phi13_1_514342768]
+Loading SNPs...
+Loading regions...
+	No regions given, using whole reference.
+	Total Regions: 12
+	Total Region Length: 609578
+Analyzing contigs...
+CONTIG: k121_2464_flag_0_multi_1185.0000_len_581 (581bp)
+Top Length: 581  Top ID: 100.0
+		One align captures most of this contig: 17925 18505 | 1 581 | 581 581 | 100.0 | PSA_HP1 k121_2464_flag_0_multi_1185.0000_len_581
+
+CONTIG: k121_14821_flag_0_multi_1086.3541_len_23983 (23983bp)
+Top Length: 15764  Top ID: 100.0
+		This contig is misassembled. 2 total aligns.
+			Real Alignment 1: 36333 45035 | 1 8703 | 8703 8703 | 100.0 | PSA_HP1 k121_14821_flag_0_multi_1086.3541_len_23983
+			  Gap between these two alignments (local misassembly). Inconsistency = 484 (linear representation of circular genome)
+			Real Alignment 2: 1 15764 | 8220 23983 | 15764 15764 | 100.0 | PSA_HP1 k121_14821_flag_0_multi_1086.3541_len_23983
+
+CONTIG: k121_9408_flag_0_multi_1177.9138_len_3394 (3394bp)
+Top Length: 3394  Top ID: 100.0
+		One align captures most of this contig: 33060 36453 | 1 3394 | 3394 3394 | 100.0 | PSA_HP1 k121_9408_flag_0_multi_1177.9138_len_3394
+
+CONTIG: k121_8732_flag_0_multi_60.8697_len_520 (520bp)
+		This contig is unaligned. (520 bp)
+		Unaligned bases: 520  total: 520
+
+CONTIG: k121_2646_flag_0_multi_1202.5297_len_9402 (9402bp)
+Top Length: 9402  Top ID: 99.99
+		One align captures most of this contig: 18572 27973 | 9402 1 | 9402 9402 | 99.99 | PSA_HP1 k121_2646_flag_0_multi_1202.5297_len_9402
+
+CONTIG: k121_7059_flag_0_multi_1034.0000_len_755 (755bp)
+Top Length: 755  Top ID: 100.0
+		One align captures most of this contig: 15772 16526 | 1 755 | 755 755 | 100.0 | PSA_HP1 k121_7059_flag_0_multi_1034.0000_len_755
+
+CONTIG: k121_2104_flag_0_multi_1070.8577_len_1372 (1372bp)
+Top Length: 1372  Top ID: 100.0
+		One align captures most of this contig: 16551 17922 | 1 1372 | 1372 1372 | 100.0 | PSA_HP1 k121_2104_flag_0_multi_1070.8577_len_1372
+
+CONTIG: k121_1305_flag_0_multi_1359.5749_len_4946 (4946bp)
+Top Length: 4946  Top ID: 100.0
+		One align captures most of this contig: 28102 33047 | 4946 1 | 4946 4946 | 100.0 | PSA_HP1 k121_1305_flag_0_multi_1359.5749_len_4946
+
+Analyzing coverage...
+Writing SNPs into /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.used_snps
+	Reference PSA_HP1: 8 total alignments. 1 total regions.
+		Region: 1 to 45035 (45035 bp)
+			Align 1: 1 15764 k121_14821_flag_0_multi_1086.3541_len_23983 8220 23983
+				Gap between this and next alignment: 15764 to 15772 (7 bp)
+				Next Alignment: 15772 16526 k121_7059_flag_0_multi_1034.0000_len_755 1 755
+
+			Align 2: 15772 16526 k121_7059_flag_0_multi_1034.0000_len_755 1 755
+				Gap between this and next alignment: 16526 to 16551 (24 bp)
+				Next Alignment: 16551 17922 k121_2104_flag_0_multi_1070.8577_len_1372 1 1372
+
+			Align 3: 16551 17922 k121_2104_flag_0_multi_1070.8577_len_1372 1 1372
+				Gap between this and next alignment: 17922 to 17925 (2 bp)
+				Next Alignment: 17925 18505 k121_2464_flag_0_multi_1185.0000_len_581 1 581
+
+			Align 4: 17925 18505 k121_2464_flag_0_multi_1185.0000_len_581 1 581
+				Gap between this and next alignment: 18505 to 18572 (66 bp)
+				Next Alignment: 18572 27973 k121_2646_flag_0_multi_1202.5297_len_9402 9402 1
+
+			Align 5: 18572 27973 k121_2646_flag_0_multi_1202.5297_len_9402 9402 1
+				Gap between this and next alignment: 27973 to 28102 (128 bp)
+				Next Alignment: 28102 33047 k121_1305_flag_0_multi_1359.5749_len_4946 4946 1
+
+			Align 6: 28102 33047 k121_1305_flag_0_multi_1359.5749_len_4946 4946 1
+				Gap between this and next alignment: 33047 to 33060 (12 bp)
+				Next Alignment: 33060 36453 k121_9408_flag_0_multi_1177.9138_len_3394 1 3394
+
+			Align 7: 33060 36453 k121_9408_flag_0_multi_1177.9138_len_3394 1 3394
+				Negative gap (overlap) between this and next alignment: 36453 to 36333 (-120 bp)
+				Next Alignment: 36333 45035 k121_14821_flag_0_multi_1086.3541_len_23983 1 8703
+
+			Previous gap was negative, modifying coordinates to ignore overlap
+				Moving contig start from 1 to 122.
+			Align 8: 36454 45035 k121_14821_flag_0_multi_1086.3541_len_23983 122 8703
+			END in current alignment.  Modifying 45035 to 45035.
+
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+ERROR: Reference [$ref] does not have any alignments!  Check that this is the same file used for alignment.
+ERROR: Alignment Reference Headers: ['PSA_HP1']
+Analysis is finished!
+Founded SNPs were written into /global/projectb/scratch/arrivers/ss-dsPhageMapping/20160621/megahit/megahit_out/quast_results/results_2016_06_21_15_56_00/contigs_reports/nucmer_output/final.contigs.used_snps
+
+Results:
+	Local Misassemblies: 1
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassmblies Inter-Contig Overlap: 484
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 1 + 0 part
+Partially Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 520
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each contig was used.
+
+	Covered Bases: 44796
+
+	SNPs: 1
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 6
+		Internal Gaps:  0
+		External Gaps:  6
+		External Gap Total:  239
+		External Gap Average: 40
+	Negative Gaps: 1
+		Internal Overlaps:  0
+		External Overlaps:  1
+		External Overlaps Total: -120
+		External Overlaps Average: -120
+	Contigs with Redundant Alignments: 0 (0)

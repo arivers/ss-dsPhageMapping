@@ -1,0 +1,11 @@
+inputReads=7308190
+inputBases=1103536690
+qtrimmedReads=185767
+qtrimmedBases=3047189
+qfilteredReads=0
+qfilteredBases=0
+kfilteredReads=325066
+kfilteredBases=49084966
+outputReads=6974834
+outputBases=1051404535
+

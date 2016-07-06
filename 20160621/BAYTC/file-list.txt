@@ -1,0 +1,8 @@
+filtered_fastq=10598.1.166606.CCGTC.anqdht.fastq.gz
+ihist=ihist_merge.txt
+scafstats=scaffoldStats.txt
+refstats=refStats.txt
+microbeReads=microbes.fq.gz
+microbeStats=commonMicrobes.txt
+synthReads=synth.fq.gz
+humanReads=human.fq.gz

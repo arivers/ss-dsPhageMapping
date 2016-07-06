@@ -1,0 +1,5 @@
+#name	%unambiguousReads	unambiguousMB	%ambiguousReads	ambiguousMB	unambiguousReads	ambiguousReads
+human_masked	1.85934	16.77637	0.00013	0.00121	111600	8
+dog_masked	0.00213	0.01922	0.00003	0.00030	128	2
+cat_masked	0.00017	0.00151	0.00007	0.00060	10	4
+mouse_masked	0.00017	0.00151	0.00003	0.00030	10	2

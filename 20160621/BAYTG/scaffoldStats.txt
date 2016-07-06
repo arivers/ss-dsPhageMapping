@@ -1,0 +1,33 @@
+#File	/global/dna/dm_archive/sdm/illumina/01/05/98/10598.1.166606.GTCCG.fastq.gz
+#Total	6237432
+#Matched	11951	0.19160%
+#Name	Reads	ReadsPct
+Reverse_adapter	6650	0.10661%
+pcr_dimer	2830	0.04537%
+TruSeq_Universal_Adapter	1106	0.01773%
+PCR_Primers	799	0.01281%
+cre_lox_pcr_primer_1	148	0.00237%
+nextera_R2_right_side_adapter	135	0.00216%
+TruSeqR2_nextera	105	0.00168%
+RNA_PCR_Primer__RP1___part___15005505	68	0.00109%
+RNA_PCR_Primer__Index_19__RPI19	20	0.00032%
+PCR_Primer__Index_9	14	0.00022%
+RNA_PCR_Primer__Index_42__RPI42	11	0.00018%
+cre_lox_lib_yadapt_1	11	0.00018%
+TruSeq_Adapter__Index_7	10	0.00016%
+RNA_PCR_Primer__Index_37__RPI37	6	0.00010%
+Multiplexing_Adapters	5	0.00008%
+PCR_Primer__Index_12	4	0.00006%
+TruSeq_Adapter__Index_10	4	0.00006%
+TruSeq_Adapter__Index_8	4	0.00006%
+TruSeq_Adapter__Index_9	4	0.00006%
+RNA_PCR_Primer__Index_22__RPI22	3	0.00005%
+gi|149999561|gb|EF694056.1| Cloning vector pJET1.2, complete sequence	3	0.00005%
+PCR_Primer__Index_5	2	0.00003%
+TruSeq_Adapter__Index_12	2	0.00003%
+TruSeq_Adapter__Index_3	2	0.00003%
+PCR_Primer__Index_10	1	0.00002%
+PCR_Primer__Index_2	1	0.00002%
+RNA_PCR_Primer__Index_34__RPI34	1	0.00002%
+RNA_PCR_Primer__Index_35__RPI35	1	0.00002%
+TruSeq_Adapter__Index_6	1	0.00002%

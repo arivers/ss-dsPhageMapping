@@ -1,0 +1,101 @@
+##INPUT PARAMETERS##
+#Reference file:	[/global/dna/shared/rqc/ref_databases/qaqc/databases/illumina.artifacts/Illumina.artifacts.2013.12.no_DNA_RNA_spikeins.fa, /global/dna/shared/rqc/ref_databases/qaqc/databases/illumina.artifacts/DNA_spikeins.artifacts.2012.10.fa, /global/dna/shared/rqc/ref_databases/qaqc/databases/pJET1.2.fasta]
+#Query file:	/global/dna/dm_archive/sdm/illumina/01/05/98/10598.1.166606.CCGTC.fastq.gz
+#Not matched reads file:	/scratch/tmp/22861305.1.normal_excl.q/TEMP_FILTER_3efd34ab5f7be301653d1039a437f_10598.1.166606.CCGTC.anqdht.fastq.gz
+#Matched reads file:	BAYTC/synth.fq.gz
+#Output file (duk):	BAYTC/kmerStats.txt
+#Output file (stats):	BAYTC/scaffoldStats.txt
+#Mer size:	27
+#Avg step size:	0.0
+#Cut off:	0
+#Mask middle:	true
+#Quality trim:	10
+
+##REFERENCE STAT##
+#Total Reads:	170
+#Total Bases:	30925
+#Total kmers:	26545
+#Total stored kmers:	1092922
+
+## ELAPSED TIME##
+# Time:	11.76 seconds
+
+##QUERY FILE STAT##
+# Total number of reads:	6169152
+# Total number of matched reads:	155104
+# Match ratio:	0.025142
+
+##P-VALUE##
+#Avg number of Kmer for each read:	124
+
+## Histogram of kmer occurance for reads with at least one occurance ##
+#NumOcc	NumReads	Percentage
+0	6030181	97.7473
+1	3155	0.0511
+2	2820	0.0457
+3	1682	0.0273
+4	2179	0.0353
+5	1726	0.0280
+6	1782	0.0289
+7	1388	0.0225
+8	1265	0.0205
+9	1300	0.0211
+10	1324	0.0215
+11	3670	0.0595
+12	1495	0.0242
+13	1205	0.0195
+14	1224	0.0198
+15	1463	0.0237
+16	2043	0.0331
+17	1659	0.0269
+18	1771	0.0287
+19	7995	0.1296
+20	2027	0.0329
+21	1915	0.0310
+22	25678	0.4162
+23	2137	0.0346
+24	2637	0.0427
+25	2447	0.0397
+26	3230	0.0524
+27	4240	0.0687
+28	2057	0.0333
+29	2228	0.0361
+30	1164	0.0189
+31	1773	0.0287
+32	1273	0.0206
+33	1791	0.0290
+34	910	0.0148
+35	584	0.0095
+36	1003	0.0163
+37	15071	0.2443
+38	7772	0.1260
+39	7199	0.1167
+40	1548	0.0251
+41	889	0.0144
+42	712	0.0115
+43	414	0.0067
+44	357	0.0058
+45	267	0.0043
+46	222	0.0036
+47	221	0.0036
+48	159	0.0026
+49	84	0.0014
+50	230	0.0037
+51	4093	0.0663
+52	445	0.0072
+53	960	0.0156
+54	25	0.0004
+55	20	0.0003
+56	7	0.0001
+57	11	0.0002
+58	4	0.0001
+59	4	0.0001
+60	3	0.0000
+62	2	0.0000
+63	4	0.0001
+65	4	0.0001
+66	1	0.0000
+68	1	0.0000
+124	1	0.0000
+125	1	0.0000
+

@@ -1,0 +1,25 @@
+PSA_HP1
+18506 18571
+27974 28101
+Enterobacteria_phage_phiX174_9626372
+1 5386
+Cellulophaga_phage_phi13_1_514342768
+1 76666
+gi|9625355|ref|NC_001330.1|_Enterobacteria_phage_alpha3__complete_genome
+1 6087
+Cellulophaga_phage_phi18_3_526177357
+1 71443
+PSA_HM1
+1 129401
+PSA_HS9
+1 36769
+Cellulophaga_phage_phi18_1_526177061
+1 39189
+Cellulophaga_phage_phi38_1_526177551
+1 72534
+PSA_HS2
+1 37728
+PSA_HS6
+1 35328
+Cellulophaga_phage_phi38_2_514343001
+1 54012
